@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/Mrcoooold/nwafuwumanubot/tree/gh-pages) branch hosts the contents of this directory at <https://Mrcoooold.github.io/nwafuwumanubot/>.
-The permalink for this webpage version is <https://Mrcoooold.github.io/nwafuwumanubot/v/957ff8ebf04f1051aedb3fd17677e19ff2286b7a/>.
+The permalink for this webpage version is <https://Mrcoooold.github.io/nwafuwumanubot/v/9862460e6029bf4a5bcf492299d056d9f0b585f0/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://Mrcoooold.github.io/nwafuwumanubot/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`957ff8ebf04f1051aedb3fd17677e19ff2286b7a`](https://github.com/Mrcoooold/nwafuwumanubot/commit/957ff8ebf04f1051aedb3fd17677e19ff2286b7a).
+[`9862460e6029bf4a5bcf492299d056d9f0b585f0`](https://github.com/Mrcoooold/nwafuwumanubot/commit/9862460e6029bf4a5bcf492299d056d9f0b585f0).
