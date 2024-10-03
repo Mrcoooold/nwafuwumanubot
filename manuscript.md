@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2024-10-03" />
   <meta name="citation_publication_date" content="2024-10-03" />
   <meta property="article:published_time" content="2024-10-03" />
-  <meta name="dc.modified" content="2024-10-03T06:19:39+00:00" />
-  <meta property="article:modified_time" content="2024-10-03T06:19:39+00:00" />
+  <meta name="dc.modified" content="2024-10-03T12:23:56+00:00" />
+  <meta property="article:modified_time" content="2024-10-03T12:23:56+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://Mrcoooold.github.io/nwafuwumanubot/" />
   <meta name="citation_pdf_url" content="https://Mrcoooold.github.io/nwafuwumanubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Mrcoooold.github.io/nwafuwumanubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Mrcoooold.github.io/nwafuwumanubot/v/957ff8ebf04f1051aedb3fd17677e19ff2286b7a/" />
-  <meta name="manubot_html_url_versioned" content="https://Mrcoooold.github.io/nwafuwumanubot/v/957ff8ebf04f1051aedb3fd17677e19ff2286b7a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Mrcoooold.github.io/nwafuwumanubot/v/957ff8ebf04f1051aedb3fd17677e19ff2286b7a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Mrcoooold.github.io/nwafuwumanubot/v/9862460e6029bf4a5bcf492299d056d9f0b585f0/" />
+  <meta name="manubot_html_url_versioned" content="https://Mrcoooold.github.io/nwafuwumanubot/v/9862460e6029bf4a5bcf492299d056d9f0b585f0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Mrcoooold.github.io/nwafuwumanubot/v/9862460e6029bf4a5bcf492299d056d9f0b585f0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Mrcoooold.github.io/nwafuwumanubot/v/957ff8ebf04f1051aedb3fd17677e19ff2286b7a/))
+([permalink](https://Mrcoooold.github.io/nwafuwumanubot/v/9862460e6029bf4a5bcf492299d056d9f0b585f0/))
 was automatically generated
-from [Mrcoooold/nwafuwumanubot@957ff8e](https://github.com/Mrcoooold/nwafuwumanubot/tree/957ff8ebf04f1051aedb3fd17677e19ff2286b7a)
+from [Mrcoooold/nwafuwumanubot@9862460](https://github.com/Mrcoooold/nwafuwumanubot/tree/9862460e6029bf4a5bcf492299d056d9f0b585f0)
 on October 3, 2024.
 </em></small>
 
